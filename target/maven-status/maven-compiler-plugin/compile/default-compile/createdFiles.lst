@@ -1,0 +1,12 @@
+com/cliquedom/turing/park/Slot.class
+com/cliquedom/turing/CarParkingSolution.class
+com/cliquedom/turing/park/SlotKeyGenerator.class
+com/cliquedom/turing/interfaces/SlotImpl.class
+com/cliquedom/turing/interfaces/SlotKeyGeneratorImpl.class
+com/cliquedom/turing/interfaces/SlotStoreImpl.class
+com/cliquedom/turing/interfaces/VehicleImpl.class
+com/cliquedom/turing/interfaces/ParkImpl.class
+com/cliquedom/turing/park/SlotStore.class
+com/cliquedom/turing/vehicle/Vehicle.class
+com/cliquedom/turing/vehicle/VehicleTypeEnum.class
+com/cliquedom/turing/exceptions/VehicleBuildException.class

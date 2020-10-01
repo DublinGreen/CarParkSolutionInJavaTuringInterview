@@ -1,0 +1,12 @@
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/exceptions/VehicleBuildException.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/CarParkingSolution.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/interfaces/SlotImpl.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/interfaces/VehicleImpl.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/park/SlotStore.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/vehicle/Vehicle.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/interfaces/SlotKeyGeneratorImpl.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/interfaces/SlotStoreImpl.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/park/SlotKeyGenerator.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/interfaces/ParkImpl.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/park/Slot.java
+/home/green/NetBeansProjects/carParkingSolutionTuring/src/main/java/com/cliquedom/turing/vehicle/VehicleTypeEnum.java
